@@ -1,0 +1,10 @@
+1.GIT是分布式的，GIT把内容按元数据存储
+2.GIT安装配置:
+
+
+1.安装SourceTree
+2.注册github账号
+3.在github上创建仓库并且复制路径
+4.打开SourceTree,点击：“+新仓库”，选择：“从URL克隆”。
+5.通过SourceTree上传一个项目至我们的远程Github仓库内。
+6.修改文件：先在SourceTree上传到Github的远程仓库，然后再登录Github去比较上传文件的差异，最后输入提交理由再提交，最后等作者接受了我们的推送请求就算提交成功。
